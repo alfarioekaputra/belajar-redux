@@ -1,0 +1,3 @@
+rootProject.name = 'belajar_redux'
+
+include ':app'
